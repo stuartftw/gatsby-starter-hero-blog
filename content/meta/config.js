@@ -1,26 +1,26 @@
 module.exports = {
-  siteTitle: "HeroBlog - a GatsbyJS starter", // <title>
-  shortSiteTitle: "HeroBlog - GatsbyJS starter", // <title> ending for posts and pages
-  siteDescription: "HeroBlog is a GatsbyJS starter.",
+  siteTitle: "", // <title>
+  shortSiteTitle: "TeamWORKS - Resourcing by Thrillworks", // <title> ending for posts and pages
+  siteDescription: "TeamWORKS site is a GatsbyJS starter.",
   siteUrl: "https://gatsby-starter-hero-blog.greglobinski.com",
   // pathPrefix: "",
   siteImage: "preview.jpg",
   siteLanguage: "en",
 
   /* author */
-  authorName: "greg lobinski",
-  authorTwitterAccount: "greglobinski",
+  authorName: "Stuart Freeman",
+  authorTwitterAccount: "thrillworks",
 
   /* info */
-  headerTitle: "greg lobinski",
-  headerSubTitle: "presents another one GatsbyJS starter",
+  headerTitle: "TeamWORKS",
+  headerSubTitle: "Thrillworks Resource Manager",
 
   /* manifest.json */
-  manifestName: "HeroBlog - a GatsbyJS starter",
-  manifestShortName: "HeroBlog", // max 12 characters
+  manifestName: "TeamWORKS - Resourcing",
+  manifestShortName: "TeamWORKS", // max 12 characters
   manifestStartUrl: "/index.html",
   manifestBackgroundColor: "white",
-  manifestThemeColor: "#666",
+  manifestThemeColor: "#fff",
   manifestDisplay: "standalone",
 
   // gravatar
@@ -28,7 +28,7 @@ module.exports = {
   // Replace your email adress with md5-code.
   // Example https://www.gravatar.com/avatar/g.strainovic@gmail.com ->
   // gravatarImgMd5: "https://www.gravatar.com/avatar/1db853e4df386e8f699e4b35505dd8c6",
-  gravatarImgMd5: "",
+  gravatarImgMd5: "https://secure.gravatar.com/avatar/31f4179de6d2c0037421e937833d55d7?s=170&d=mm&r=g",
 
   // social
   authorSocialLinks: [

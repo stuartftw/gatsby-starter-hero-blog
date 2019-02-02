@@ -50,11 +50,11 @@ color:
       g: '#969492'
       h: '#706e6b'
       i: '#514f4d'
-      j: &color-gray-10 '#3e3e3c'
+      j: &color-gray-10 '#7a7a7a'
       k: '#2b2826'
     black: '#000000'
   brand:
-    primary: &color-brand-primary '#709425'
+    primary: &color-brand-primary '#FF6900' # Thrillworks brand orange
     primaryActive: '#709425'
     light: '#709425'
     lightActive: '#709425'
@@ -66,7 +66,7 @@ color:
 font:
   # font options
   family:
-    initial: 'Arial, sans-serif'
+    initial: 'Roboto, sans-serif'
     target: &font-family-target 'Open Sans'
   weight:
     standard: 400
@@ -122,6 +122,7 @@ heading:
   lineHeight:
     h1: *font-line-height-xs
     h2: *font-line-height-xs
+    h3: *font-line-height-xs
     h3: *font-line-height-xs
   weight: 600
 line:
