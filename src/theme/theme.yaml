@@ -123,7 +123,6 @@ heading:
     h1: *font-line-height-xs
     h2: *font-line-height-xs
     h3: *font-line-height-xs
-    h3: *font-line-height-xs
   weight: 600
 line:
   color: *color-gray-3
